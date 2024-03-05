@@ -1,5 +1,8 @@
 # Connecting Clients Across Subnets: Adding a New Domain Client
 
+![ad-joined-frontdesk1](https://github.com/rasheedjimoh/domainjoinseperatesubnet/assets/157264080/f6bf5950-354f-4d60-a53a-e2c4b827792e)
+
+
 ## Introduction
 I'm excited to share a step-by-step guide on how to add a client in another subnet to your domain. As we expand our network or set up remote offices, it's crucial to ensure seamless connectivity and integration with our existing domain infrastructure.
  
@@ -32,6 +35,9 @@ Finally, don't forget to apply any necessary group policies to the new client. G
 ## Technologies/Stacks
 - VMware Workstation Pro as Hypervisor Type 2
 - Windows Server 2019 (DC): Mydomain's Domain Controller/ Active Directory
+
+
+![ad-joined-frontdesk1-poc](https://github.com/rasheedjimoh/domainjoinseperatesubnet/assets/157264080/c4243e25-76b4-48ff-97a1-80bfe5db1069)
 
 ## Conclusion
 By following these steps, you can easily add a client in another subnet to your domain, enabling seamless integration and centralized management. Remember to pay attention to network connectivity, DNS resolution, authentication, and group policy settings to ensure a smooth transition. With proper configuration and attention to detail, your new client will be up and running on the domain in no time.
