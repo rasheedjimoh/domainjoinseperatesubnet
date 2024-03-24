@@ -1,10 +1,12 @@
 # Connecting Clients Across Subnets: Adding a New Domain Client
 
-![ad-joined-frontdesk1](https://github.com/rasheedjimoh/domainjoinseperatesubnet/assets/157264080/f6bf5950-354f-4d60-a53a-e2c4b827792e)
-
 
 ## Introduction
 I'm excited to share a step-by-step guide on how to add a client in another subnet to your domain. As we expand our network or set up remote offices, it's crucial to ensure seamless connectivity and integration with our existing domain infrastructure.
+
+![ad-joined-frontdesk1](https://github.com/rasheedjimoh/domainjoinseperatesubnet/assets/157264080/f6bf5950-354f-4d60-a53a-e2c4b827792e)
+
+
 
 ## Why We Need It
 
